@@ -15,7 +15,12 @@ function App() {
     
       <div>
        <h1 style={colors}>I am sami</h1>
+      <div className='card'>
+        <h3 className='card-title'>Iron Man</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum, delectus. Error amet repudiandae itaque fugit obcaecati, ipsam vero et ad omnis hic pariatur assumenda excepturi rem illum, numquam nulla neque perspiciatis impedit doloremque vitae cum dolorum minima ratione! Reprehenderit odio neque dicta architecto unde necessitatibus? Eaque temporibus optio repellendus. Molestias!</p></div>
       </div>
+
+   
       
   
   )
